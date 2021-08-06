@@ -2,7 +2,7 @@ import cv2
 from Clase import basicColor as bs
 
 if __name__ == '__main__':
-    ##
+    ## Definicones de la ruta del archivo
     dir = input("Ingrese la dirección de su imagen: ")
     nom = input("Ingrese el nombre de su imagen: ")
     imagen = bs(dir, nom)
