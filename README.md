@@ -17,7 +17,7 @@ Es necesario que se tengan instaladas en su entorno virtual las siguientes libre
 Tambien es importante que en las configuraciones de entorno virtual o interprete se use Python 3.8 para evitar problemas de compatibilidad, como 
 se muestra en la siguiente imagen:
 
-<p >
+<p  align="justify">
    <img src=Imagenes/Captura.PNG>
 </p>
 
@@ -26,25 +26,25 @@ se muestra en la siguiente imagen:
 Para correr el proyecto, entre a Main.py y presione "run", siguiente complete la información pedida dependiendo de su caso, en este caso
 se llenara de la siguiente manera: 
 
-<p >
+<p  align="justify">
    <img src=Imagenes/Ruta.PNG>
 </p>
 
 Luego de esto, la imagen en la ruta especificada aparecera en pantalla en blanco y negro, de este modo: 
 
-<p >
+<p  align="justify">
    <img src=Imagenes/ByN.PNG>
 </p>
 
 Al cerrar la imagen, el codigo seguira y se le pedira lo siguiente: 
 
-<p >
+<p  align="justify">
    <img src=Imagenes/hin.PNG>
 </p>
 
 Por ultimo aparecera la nueva imagen Colorizada, de la siguiente forma: 
 
-<p >
+<p  align="justify">
    <img src=Imagenes/ImaH.PNG>
 </p>
 
