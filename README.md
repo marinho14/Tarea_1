@@ -26,13 +26,13 @@ se muestra en la siguiente imagen:
 Para correr el proyecto, entre a Main.py y presione "run", siguiente complete la información pedida dependiendo de su caso, en este caso
 se llenara de la siguiente manera: 
 
-<p  align="justify">
+<p  align="center">
    <img src=Imagenes/Ruta.PNG>
 </p>
 
 Luego de esto, la imagen en la ruta especificada aparecera en pantalla en blanco y negro, de este modo: 
 
-<p  align="justify">
+<p  align="center">
    <img src=Imagenes/ByN.PNG>
 </p>
 
