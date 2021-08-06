@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 # Definición de la clase
-class basicColor:
+class basicColor: # Se crea la clase Basic Color
 
   def __init__(self, path, image_name):
     path_file = os.path.join(path, image_name)
