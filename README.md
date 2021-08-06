@@ -17,7 +17,7 @@ Es necesario que se tengan instaladas en su entorno virtual las siguientes libre
 Tambien es importante que en las configuraciones de entorno virtual o interprete se use Python 3.8 para evitar problemas de compatibilidad, como 
 se muestra en la siguiente imagen:
 
-<p  align="justify">
+<p  align="center">
    <img src=Imagenes/Captura.PNG>
 </p>
 
@@ -38,13 +38,13 @@ Luego de esto, la imagen en la ruta especificada aparecera en pantalla en blanco
 
 Al cerrar la imagen, el codigo seguira y se le pedira lo siguiente: 
 
-<p  align="justify">
+<p  align="center">
    <img src=Imagenes/hin.PNG>
 </p>
 
 Por ultimo aparecera la nueva imagen Colorizada, de la siguiente forma: 
 
-<p  align="justify">
+<p  align="center">
    <img src=Imagenes/ImaH.PNG>
 </p>
 
