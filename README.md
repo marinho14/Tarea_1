@@ -27,25 +27,25 @@ Para correr el proyecto, entre a Main.py y presione "run", siguiente complete la
 se llenara de la siguiente manera: 
 
 <p >
-   <img src=Ruta.PNG>
+   <img src=Imagenes/Ruta.PNG>
 </p>
 
 Luego de esto, la imagen en la ruta especificada aparecera en pantalla en blanco y negro, de este modo: 
 
 <p >
-   <img src=ByN.PNG>
+   <img src=Imagenes/ByN.PNG>
 </p>
 
 Al cerrar la imagen, el codigo seguira y se le pedira lo siguiente: 
 
 <p >
-   <img src=hin.PNG>
+   <img src=Imagenes/hin.PNG>
 </p>
 
 Por ultimo aparecera la nueva imagen Colorizada, de la siguiente forma: 
 
 <p >
-   <img src=ImaH.PNG>
+   <img src=Imagenes/ImaH.PNG>
 </p>
 
 Cierrela para terminar el codigo. 
