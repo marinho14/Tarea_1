@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import os
 
-# Definición de la clase 
+# Definición de la clase
 class basicColor:
 
   def __init__(self, path, image_name):
