@@ -1,3 +1,4 @@
+# Se crea el programa principal
 import cv2
 from Clase import basicColor as bs ## Importar la clase del archivo clase.py
 
