@@ -18,7 +18,7 @@ Tambien es importante que en las configuraciones de entorno virtual o interprete
 se muestra en la siguiente imagen:
 
 <p >
-   <img src=Captura.PNG>
+   <img src=Imagenes/Captura.PNG>
 </p>
 
 ## Run Proyecto 
